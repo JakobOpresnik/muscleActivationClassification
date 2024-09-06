@@ -4,6 +4,8 @@ classification of 8-channel EMG muscle signals using neural networks &amp; SVM c
 
 see `main.ipynb` for complete code and `/signals` folder for entire training, testing &amp; validation datasets
 
+<br />
+
 developed using Python &amp; the following libraries:
 - numpy
 - matplotlib
